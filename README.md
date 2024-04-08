@@ -14,7 +14,7 @@ Extra Hard Mode
 Instead of uploading an HTML file to the discord, host the page somewhere and post a link to the public website.
 Post a link to where you've hosted/we can see the HTML and CSS you wrote.
 
-HTML learnig resource: https://www.geeksforgeeks.org/html-tutorial/
+HTML learning resource: https://www.geeksforgeeks.org/html-tutorial/
 
 Other great resources for learning HTML:
 
